@@ -103,22 +103,22 @@
   box-shadow: 0 1px 1px hsla(0, 0%, 0%, 0.2) inset, 0 0 1px hsla(0, 0%, 0%, 0.3) inset, 0 1px 0 hsla(0, 0%, 100%, 0.05);
 }
 .pdfemb-viewer .pdfemb-toolbar button.pdfemb-prev::before {
-  content: url("/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-pageUp.png");
+  content: url("https://https://raton029.github.io/Moldesim/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-pageUp.png");
 }
 .pdfemb-viewer .pdfemb-toolbar button.pdfemb-next::before {
-  content: url("/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-pageDown.png");
+  content: url("https://https://raton029.github.io/Moldesim/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-pageDown.png");
 }
 .pdfemb-viewer .pdfemb-toolbar button.pdfemb-zoomout::before {
-  content: url("/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-zoomOut.png");
+  content: url("https://https://raton029.github.io/Moldesim/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-zoomOut.png");
 }
 .pdfemb-viewer .pdfemb-toolbar button.pdfemb-zoomin::before {
-  content: url("/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-zoomIn.png");
+  content: url("https://https://raton029.github.io/Moldesim/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-zoomIn.png");
 }
 .pdfemb-viewer .pdfemb-toolbar button.pdfemb-fs::before {
-  content: url("/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-presentationMode.png");
+  content: url("https://https://raton029.github.io/Moldesim/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-presentationMode.png");
 }
 .pdfemb-viewer .pdfemb-toolbar button.pdfemb-download::before {
-  content: url("/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-download.png");
+  content: url("https://https://raton029.github.io/Moldesim/wp-content/plugins/pdf-embedder/assets/img/toolbarButton-download.png");
 }
 .pdfemb-viewer .pdfemb-toolbar button.pdfemb-btndisabled {
   color: lightGray;
